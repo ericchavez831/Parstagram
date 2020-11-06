@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I was not able to get the camera to open. I was able to figure out it was because I was running an emulator with and API level of 30 or higher.
+I was not able to get the camera to open. I was able to figure out it was because I was running an emulator with an API level of 30 or higher.
 
 ## Open-source libraries used
 
